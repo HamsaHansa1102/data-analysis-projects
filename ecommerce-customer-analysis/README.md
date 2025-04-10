@@ -50,3 +50,16 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+---
+
+## 📸 Screenshots
+
+### Revenue by Country
+![Revenue Chart](screenshots/revenue_by_country.png)
+
+### Top Spending Customers
+![Top Customers](screenshots/top_customers.png)
+
+### Purchase Distribution by Gender
+![Gender Pie Chart](screenshots/purchase_by_gender.png)
